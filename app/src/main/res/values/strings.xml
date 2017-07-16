@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bundled_notifications</string>
+    <string name="activity_b">ACTIVITY_B</string>
+</resources>
